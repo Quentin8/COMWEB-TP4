@@ -1,0 +1,13 @@
+#chatText{
+    background-color: lightgray;
+    width: 100%;
+    height : 500px;
+    display: block;
+}
+#inputTchat{
+    width: 100%;
+    display: inline-block;
+}
+.btnExtended1{
+    width: 100%;
+}
